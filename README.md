@@ -7,6 +7,13 @@ Here's some extension album repos:
 - [Undertaken with Urgency: Neutering Your Aggressive Animals](https://github.com/Backup158/darktide_improved_loading_screens_list_uwu_nyaa) - Wallpapers from *Warhammer 40,000: Gladius - Relics of War*
 - [Undertaken with Urgency: Neutering Your Auntie's Aging Aardvark](https://github.com/Backup158/darktide_improved_loading_screens_list_uwu_nyaaa) - Wallpapers that are not 16:9 but go hard regardless
 
+What will go into your `user_settings.config` (if you're not pasting into the GUI):
+```
+			"Backup158/darktide_improved_loading_screens_list_uwu_nya"
+			"Backup158/darktide_improved_loading_screens_list_uwu_nyaa"
+			"Backup158/darktide_improved_loading_screens_list_uwu_nyaaa"
+```
+
 ## Swapping from CLB
 From what I could tell, CLB loads everything at the start, while ILS only loads one thing before a loading screen. That makes it not swap mid-loading screen, but should be more performance friendly. >700 wallpapers at startup, even with parallel processing, is a lot.
 
